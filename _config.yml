@@ -3,7 +3,7 @@ lsi: false
 source: .
 name: cultural coder
 author: krzysztof siejkowski
-deployurl: http://culturalcoder.com
+deployurl: http://staging.culturalcoder.com
 
 future: true
 permalink: :title
